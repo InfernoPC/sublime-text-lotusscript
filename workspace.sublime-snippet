@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Dim ws As New NotesUIWorkspace]]></content>
+    <tabTrigger>newws</tabTrigger>
+    <scope>source.lotusscript</scope>
+    <description>New Workspace</description>
+</snippet>

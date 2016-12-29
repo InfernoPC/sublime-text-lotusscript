@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+While ${1:condition}
+	$0
+wend]]></content>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.lotusscript</scope>
+    <description>while wend</description>
+</snippet>

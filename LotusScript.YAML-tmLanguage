@@ -1,0 +1,10 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+---
+name: LotusScript
+scopeName: source.lotusscript
+fileTypes: []
+uuid: ce5d052a-7031-4ab2-8fb4-7795d1efc1d9
+
+patterns:
+- 
+...
